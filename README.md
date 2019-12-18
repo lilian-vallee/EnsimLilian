@@ -1,5 +1,5 @@
 # EnsimLilian
-TP_POO
+https://github.com/lilian-vallee/EnsimLilian.git
 
 Tp noté de POO
 
